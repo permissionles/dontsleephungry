@@ -1,2 +1,2 @@
-# dontsleephungry
-End world hunger now.
+# Dont Sleep or let anyone sleep hungry.
+End world hunger now!
