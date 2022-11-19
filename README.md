@@ -1,2 +1,1 @@
-# Dont Sleep or let anyone sleep hungry.
-End world hunger now!
+# No one should go to sleep hungry
