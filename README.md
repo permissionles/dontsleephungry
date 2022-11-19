@@ -1,7 +1,7 @@
 # No one should go to sleep hungry
 
 Humans have pulled a lot of shit together for a very long time.
-It is stupid that we are letting people die of hunger when food is suprlus.
+It is stupid that we are letting people die of hunger when food is surplus.
 Either the ideas of people in-charge are bad or they are just inefficient.
 
 But I think Opensource should take over.
